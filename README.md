@@ -1,4 +1,4 @@
-# audio-analysis-dashboard
+# Audio Analysis dashboard using AssemblyAI's API
 This is a project to create a dashboard of Audio analysis using Assembly_AI  API
 
 
